@@ -41,7 +41,7 @@ export default function MainHome() {
                     opportunities to apply classroom knowledge to real-world projects and gain hands-on experience in the
                     tech industry.
                 </MainText>
-                <Img src={"public/Me.jpg"} alt="An image of me!" />
+                <Img src={"/Me.JPG"} alt="An image of me!" />
             </MainContent>
             <SubText>
                 Welcome to my website! Here you will find my <strong><em><u>Educational</u></em></strong> and
